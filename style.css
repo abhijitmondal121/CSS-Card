@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+  
+    background-color: rgb(255, 119, 40);
+  }
+  
+  /* .app {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .child {
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .grand-child {
+    width: 25px;
+    height: 25px;
+    background-color: white;
+  } */
+  .parent {
+    display: flex;
+  }
+  #fimg {
+    height: 180px;
+    width: 216px;
+  }
+  p {
+    font-size: 17px;
+    font-family: cursive;
+  }
+  .first-card {
+    background-color: rgb(81, 255, 0);
+    width: 220px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 100px 20px;
+    text-align: center;
+  }
+  .second-card {
+    background-color: rgb(132, 0, 255);
+    width: 220px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 100px 20px;
+    text-align: center;
+    color: white;
+  }
+  .third-card {
+    background-color: rgb(21, 240, 148);
+    width: 220px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 100px 20px;
+    text-align: center;
+  }
+  
+  #b {
+    padding: 15px 40px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+  }
+  
